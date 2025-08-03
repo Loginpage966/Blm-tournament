@@ -47,8 +47,8 @@ h2 {
   display: block;
   margin-bottom: 6px;
   font-weight: 500;
-  color: #202124;
-  font-size: 14px;
+  color: #000000;
+  font-size: 19px;
 }
 
 .input {
@@ -83,3 +83,4 @@ h2 {
 .login-btn:hover {
   background: #357ae8;
 }
+
