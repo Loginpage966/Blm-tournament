@@ -156,11 +156,7 @@ h2 {
     opacity: 0;
   }
 }
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-    padding: 10px;
-  }
-}
+
+
 
 
